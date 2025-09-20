@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Partner",
+  "description": "An intelligent study assistant powered by Gemini. Users can set a study topic and interact with the AI in various modes like Q&A, quizzes, summarization, and simplified explanations to enhance their learning experience.",
+  "requestFramePermissions": []
+}
